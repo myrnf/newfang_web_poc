@@ -1,0 +1,18 @@
+{
+  "name": "newfang_web_poc",
+  "version": "1.0.0",
+  "description": "A poc app to test the newfang web sdk",
+  "author": "myrnf",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0",
+    "element-ui": "^2.4.11"
+  },
+  "devDependencies": {}
+}
